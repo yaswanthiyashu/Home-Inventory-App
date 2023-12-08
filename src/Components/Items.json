@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee",
+      "installmentDate": "2023-12-31",
+      "maintenanceDate": "2024-01-15",
+      "contractorContact": "John Doe",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "installmentDate": "2024-01-15",
+      "maintenanceDate": "2024-02-01",
+      "contractorContact": "mark",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-product-red_FMT_WHH?wid=1280&hei=492&fmt=p-jpg&qlt=80&.v=1693063803658"
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "installmentDate": "2024-02-01",
+      "maintenanceDate": "2024-02-15",
+      "contractorContact": "Jane Doe",
+      "image": "https://burst.shopifycdn.com/photos/photography-product-download.jpg?width=1000&format=pjpg&exif=0&iptc=0"
+    },
+    {
+        "id": 4,
+        "name": "Watch",
+        "installmentDate": "2024-02-01",
+        "maintenanceDate": "2024-02-15",
+        "contractorContact": "Jane Doe",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 5,
+        "name": "Bottle",
+        "installmentDate": "2024-02-01",
+        "maintenanceDate": "2024-02-15",
+        "contractorContact": "Jane Doe",
+        "image": "https://cdn.4imprint.com/qtz/homepage/categories/images21/drinkware0222.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Rubics",
+        "installmentDate": "2024-02-01",
+        "maintenanceDate": "2024-02-15",
+        "contractorContact": "Jane Doe",
+        "image": "https://ekit.co.uk/GalleryEntries/eCommerce_solutions_and_services/MedRes_Product-presentation-2.jpg?q=27012012153123"
+      }
+    
+  ]
+  
